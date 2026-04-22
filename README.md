@@ -1,3 +1,5 @@
+{
 "SniperScopeScn" : "";
 "SniperScopeRep" : ""
+}
 
