@@ -1,3 +1,3 @@
-SniperScopeScn : "",
+SniperScopeScn : "";
 SniperScopeRep : ""
 
